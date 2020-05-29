@@ -1,6 +1,7 @@
 
 /src/DataScraping/data/pokemon_details
 /src/DataScraping/data/pokemon_sprites
+/src/DataProcessing/data/pokemon_scaled_sprites
 
 # Created by https://www.gitignore.io/api/python,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=python,jupyternotebooks
